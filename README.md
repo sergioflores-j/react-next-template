@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## :warning: TO CLONE THIS REPO DO THE FOLLOWING
+
+```bash
+yarn create next-app -e REPO_URL
+```
+
+---
+
 First, run the development server:
 
 ```bash
